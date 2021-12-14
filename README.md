@@ -26,7 +26,7 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 |[sejaumdatascientist.com](https://sejaumdatascientist.com/)|Data Science|
 |[woliveiras.com.br](https://woliveiras.com.br/)|Programação|
 
-**[⬆ Voltar ao início](# All dates)**
+**[⬆ Voltar ao início](#All-dates)**
 ## Canais
 
 * [Twitch](#twitch)
@@ -42,7 +42,7 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 |[jtrecenti](https://www.twitch.tv/jtrecenti)|Data Science|
 |[teomewhy](https://www.twitch.tv/teomewhy)|Data Science|
 
-**[⬆ Voltar ao início](# All dates)**
+**[⬆ Voltar ao início](#All-dates)**
 ### YouTube
 
 |Canal|Tema|
@@ -65,7 +65,7 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 |[Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg)|IA e Desenvolvimento de Software|
 |[Walmes Zeviani](https://www.youtube.com/user/walmes)|R e Estatística|
 
-**[⬆ Voltar ao início](#teo-me-refs)**
+**[⬆ Voltar ao início](#All-dates)**
 ## Livros
 
 * [Banco de dados](#banco-de-dados)
@@ -75,14 +75,14 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 * [Projetos e Equipes](#projetos-e-equipes)
 * [Utilitários](#utilitários)
 
-**[⬆ Voltar ao início](#teo-me-refs)**
+**[⬆ Voltar ao início](#All-dates)**
 ### Banco de dados
 
 [Introdução à Linguagem SQL: Abordagem Prática Para Iniciantes](https://amzn.to/3EU5Eff)
 
 [Introdução ao Mongodb](https://amzn.to/320HLEa)
 
-**[⬆ Voltar ao início](#teo-me-refs)**
+**[⬆ Voltar ao início](#All-dates)**
 ### Estatística
 
 [Análise de Dados Através de Métodos de Estatística Multivariada. Uma Abordagem Aplicada](https://amzn.to/3GHeMEx)
@@ -103,7 +103,7 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 
 [Probabilidade: Um Curso Moderno com Aplicações](https://amzn.to/3s3h1Os)
 
-**[⬆ Voltar ao início](# All dates)**
+**[⬆ Voltar ao início](#All-dates)**
 ### Machine Learning
 
 [Data Science do Zero](https://amzn.to/320plDU)
@@ -116,7 +116,7 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 
 [Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow](https://amzn.to/3pX1wFe)
 
-**[⬆ Voltar ao início](# All dates)**
+**[⬆ Voltar ao início](#All-dates)**
 ### Programação
 
 [Programação Python 3](https://amzn.to/3dPipfj)
@@ -131,7 +131,7 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 
 [Web Scraping com Python: Coletando Mais Dados da web Moderna](https://amzn.to/3dQSELG)
 
-**[⬆ Voltar ao início](# All dates)**
+**[⬆ Voltar ao início](#All-dates)**
 ### Projetos, Equipes e Cultura
 
 [A Regra é Não Ter Regras: A Netflix e a Cultura da Reinvenção](https://amzn.to/3DSUrKS)
@@ -146,14 +146,14 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 
 [Sprint. O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias](https://amzn.to/3EZnLk3)
 
-**[⬆ Voltar ao início](# All dates)**
+**[⬆ Voltar ao início](#All-dates)**
 ### Utilitários
 
 [Introdução às Expressões Regulares](https://amzn.to/3ETyI6E)
 
 [Git: Guia Prático](https://amzn.to/3EU4xw5)
 
-**[⬆ Voltar ao início](# All dates)**
+**[⬆ Voltar ao início](#All-dates)**
 ## Perfis
 
 Alguns perfis para seguir
