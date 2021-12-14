@@ -32,7 +32,7 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 * [Twitch](#twitch)
 * [YouTube](#youtube)
 
-**[⬆ Voltar ao início](# All dates)**
+**[⬆ Voltar ao início](#All-dates)**
 ### Twitch
 
 |Canal|Tema|
@@ -179,7 +179,7 @@ Mario Filho|[@mariofilhoml](https://www.instagram.com/mariofilhoml/)|[/mariofilh
 |Téo Calvo|[@teo.calvo](https://www.instagram.com/teo.calvo)|[/teocalvo](https://www.linkedin.com/in/teocalvo/)|[@TeoCalvo](https://twitter.com/TeoCalvo)|
 |Thiago Marques|-|[/thiagoestatidados](https://www.linkedin.com/in/thiagoestatidados/)|-|
 
-**[⬆ Voltar ao início](#teo-me-refs)**
+**[⬆ Voltar ao início](#All-dates)**
 ## Podcasts
 
 |Nome|Tema|
